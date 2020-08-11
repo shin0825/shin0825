@@ -1,7 +1,7 @@
 <div style="background-color: #396; margin-top: 1.5rem; padding: 1.5rem; border-radius: 7.5px 7.5px 7.5px 7.5px / 7.5px 7.5px 7.5px 7.5px;">
-  <img src="./images/photo.jpg" style="margin-right: 0.5rem; border-radius: 7.5px 7.5px 7.5px 7.5px / 7.5px 7.5px 7.5px 7.5px;" height="80px">
-  <img src="./images/shinya.svg" style="margin-right: 0;" height="80px">
-  <img src="./images/nakamura.png" style="margin-left: 0;" height="80">
+  <img src="https://raw.githubusercontent.com/shin0825/shin0825/master/images/photo.jpg" style="margin-right: 0.5rem; border-radius: 7.5px 7.5px 7.5px 7.5px / 7.5px 7.5px 7.5px 7.5px;" height="80px">
+  <img src="https://raw.githubusercontent.com/shin0825/shin0825/master/images/shinya.svg" style="margin-right: 0;" height="80px">
+  <img src="https://raw.githubusercontent.com/shin0825/shin0825/master/images/nakamura.png" style="margin-left: 0;" height="80">
 </div>
 
 # Shinya Nakamura - @shin0825
