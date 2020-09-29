@@ -1,10 +1,15 @@
 <div style="background-color: #9E9; margin-top: 1.5rem; padding: 1.5rem; border-radius: 7.5px 7.5px 7.5px 7.5px / 7.5px 7.5px 7.5px 7.5px;">
   <img src="https://raw.githubusercontent.com/shin0825/shin0825/master/images/photo.jpg" style="margin-right: 0.5rem; border-radius: 7.5px 7.5px 7.5px 7.5px / 7.5px 7.5px 7.5px 7.5px;" height="80px">
+  &nbsp;
   <img src="https://raw.githubusercontent.com/shin0825/shin0825/master/images/shinya.svg" style="margin-right: 0;" height="80px">
+  &nbsp;
   <img src="https://raw.githubusercontent.com/shin0825/shin0825/master/images/nakamura.png" style="margin-left: 0;" height="80">
 </div>
 
 # Shinya Nakamura - @shin0825
+
+[![S.Nakamura's github stats](https://github-readme-stats.vercel.app/api?username=shin0825&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shin0825&theme=merko&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## ざっくりプロフィール
 
